@@ -9,7 +9,7 @@ title: built for partnerships
 
 Just how you don't need to know the specifics of how a car works to drive one, you don't need to know the specifics of how re:mart works to use it. But, just like how knowing how a car works can help you drive it better, knowing how re:mart works can help you use it better, and even extend and contribute to it, yourself!
 
-I spent a lot of time thinking about how to structure re:mart, and I think I've come up with a pretty good solution. I call it a "lattice", which is a type of company that is built of a lot of smaller, independent, but interdependent companies in a way that deduplicates work, and allows for narrower specialization. There is more on that here, but for now, let me talk about how that applies to re:mart, without you needing to know the specifics of how a lattice works.
+I spent a lot of time thinking about how to structure re:mart, and I think I've come up with a pretty good solution. I call it a "lattice", which is a type of company that is built of a lot of smaller, independent, but interdependent companies in a way that deduplicates work, and allows for narrower specialization. [There is more on that here](/docs/lattice-is/a-type-of-business), but for now, let me talk about how that applies to re:mart, without you needing to know the specifics of how a lattice works.
 
 But in nature, specifically Chemistry, a lattice is a structure of atoms that are arranged and interconnected in a repeating pattern, and the way the atoms connect determines the properties of the material. For example, a diamond is a lattice of carbon atoms, and graphite is a lattice of carbon atoms, but the way the atoms are connected is different, and so they have different properties. 
 
