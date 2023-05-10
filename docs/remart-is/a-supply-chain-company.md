@@ -3,11 +3,21 @@ sidebar_position: 1
 title: a supply-chain company
 ---
 
-# a supply-chain company
+# re:mart is a supply-chain company
 
-The CEO of Toyota isn't shopping at [local big box store] for tires for the next shipment of cars. But you're there, wandering through impulse traps to get to the milk that is shelved at the back of the store because you spend more money that way.
+The CEO of Toyota isn't shopping at [local big box store] for tires for the next shipment of cars. They have a team of people dedicated solely to the purpose of procuring tires. 
 
-So, just don't.
+But you? You're wandering warehouses of impulse traps to get to the milk that is shelved at the back of the store because you spend more money that way.
+
+If you're shopping online, you're shown 40 things, as well as "things other people bought", "did you actually mean this?" and other "things related to your search" to get you to buy more, when again, you just want milk.
+
+## how do we fix it?
+
+We don't. Just don't particpate in it. The obstruction and friction of shopping is a feature, not a bug. It's designed to get you to spend more money, and it works.
+
+So, we'll be your "supply chain team". We'll get you the things you want, when you want them, for as cheap as possible, and get them to you as cheaply as possible. No games, coupons, rewards points, free shipping, just delivering you your stuff, at cost.
+
+## what does that look like?
 
 Tell us what you need, and we'll get it for you once, twice, weekly, monthly, whenever you say, for as long as you want, for $15 per cart. That's it. No markups, no margins, no bullshit. We'll even tell you how much we paid for it, and how much we saved you. You get all the dopamine of getting a great deal, without the hassle of having to find it yourself.
 
