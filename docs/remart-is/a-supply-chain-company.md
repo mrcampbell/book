@@ -22,9 +22,9 @@ Let us know what you need, and we'll get it for you once, twice, weekly, monthly
 
 Have roommates? Combine all your purchases so you all only pay once.
 
-Have a growing family? Save by buying in bulk, and never worry about running out of diapers again.
+Have a growing family? Save by buying in bulk; never worry about running out of diapers again.
 
-Are you going out of town? Save by having a fully stocked cabinet waiting for you when you arrive and a fully stocked kitchen when you return.
+Are you going out of town? Spend less by having a fully stocked cabinet waiting for you when you arrive and a fully stocked kitchen when you return.
 
 ## search for your favorites
 

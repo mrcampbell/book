@@ -19,4 +19,6 @@ Not only that, but we have the potential to save customers more than we charge t
 
 As to how this is all possible is simple, but contextual, and is explained here in "the book". re:mart is actually structured as a specific type of company, the first of its kind, called a "lattice". While not essential to understanding how to use the service, it is essential to understanding why it exists, and how it works, and most importantly, how to join and contribute.
 
-Tell me more about: [what re:mart is](/docs/remart-is/a-supply-chain-company)
+Tell me more about: [what re:mart is](/docs/remart-is/a-supply-chain-company) 
+
+or you can read more about what [a lattice business is](/docs/lattice-is/a-type-of-business).
